@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhumikatewary
 - 👀 I’m interested in web and android development
 
-<a href="https://media.giphy.com/media/BRlx9wqUKIaVa/giphy.gif" target="blank"><img align="center" src="" height="100" /></a>
+<a href="https://media.giphy.com/media/BRlx9wqUKIaVa/giphy.gif" target="blank"></a>
 
 <!---
 bhumikatewary/bhumikatewary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
