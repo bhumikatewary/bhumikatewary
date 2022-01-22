@@ -1,5 +1,4 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhumika 👩‍💻</h1>
-<hr>
 <br>
 
 I am an Undergraduate Student
@@ -30,6 +29,7 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
     <a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
+    <a href="https://wordpress.com/"><img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/></a>
 </p>
 
 <br>
@@ -48,10 +48,10 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhumikatewary&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### Lets connect through:
-<a href=""><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
-<a href=""><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href=""><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href=""><img src="https://img.icons8.com/color/48/000000/pinterest--v1.png"/></a>
+<a href="https://www.facebook.com/tewaryb/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
+<a href="https://twitter.com/bhumika_tewary"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.linkedin.com/in/bhumika-tewary-6673681a4/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://in.pinterest.com/"><img src="https://img.icons8.com/color/48/000000/pinterest--v1.png"/></a>
 
 
 
