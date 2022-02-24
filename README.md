@@ -47,7 +47,8 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhumikatewary&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhumikatewary&theme=monokai"/>
+
+<a href="https://github.com/bhumikatewary"><img alt="bhumikatewary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bhumikatewary&custom_title=bhumikatewary's%20contribution%20graph&theme=xcode" /></a>
 
 ### Lets connect through:
 <a href="https://www.facebook.com/tewaryb/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
