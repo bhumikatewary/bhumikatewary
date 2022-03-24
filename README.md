@@ -36,9 +36,9 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 
 ##### I am currently listening to:
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/bhumikatewary)
+<!--[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/bhumikatewary)-->
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)-->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
