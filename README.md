@@ -6,7 +6,7 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/img.jpg" width="400" height="420" />
+<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/photo.jpg" width="400" height="420" />
 
 - ✍ You can find my resume here [Resume]
 - 🌱 I’m currently learning Data Structures and Algorithms
@@ -56,6 +56,10 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 <a href="https://twitter.com/bhumika_tewary"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/bhumika-tewary-6673681a4/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://in.pinterest.com/"><img src="https://img.icons8.com/color/48/000000/pinterest--v1.png"/></a>
+
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<p align="right">
 
 
 
