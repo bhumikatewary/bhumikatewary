@@ -1,5 +1,7 @@
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhumika 👩‍💻</h1>
+<h1 align="center">Hello World!  I'm Bhumika 👩‍💻</h1>
 <br>
+
+<!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">-->
 
 I am an Undergraduate Student
 pursuing my B.Tech from Heritage Institute of Technology, Kolkata
