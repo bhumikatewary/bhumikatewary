@@ -32,6 +32,7 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
     <a href="https://wordpress.com/"><img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/></a>
+    <a href="https://sql.com/"><img src="https://img.icons8.com/fluency/48/000000/sql.png"/></a>
 </p>
 
 <br>
@@ -53,7 +54,9 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 <br>
 
 
-### Lets connect through:
+<div align="center">
+  <h3 align="left">Connect with me through<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
 <a href="https://www.facebook.com/tewaryb/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
 <a href="https://twitter.com/bhumika_tewary"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/bhumika-tewary-6673681a4/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
