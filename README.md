@@ -10,7 +10,7 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/photo.jpg" width="400" height="420" />
 
-- ✍ You can find my resume here [Resume]
+<!-- - ✍ You can find my resume here [Resume] -->
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on open source
 - 📫 Reach out to me: bhumikatewary49@gmail.com
@@ -71,4 +71,4 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 
 
 
-[resume]: 
+<!-- [resume]:  -->
