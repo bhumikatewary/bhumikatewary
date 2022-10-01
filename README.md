@@ -71,4 +71,4 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 
 
 
-[resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?us
+[resume]: 
