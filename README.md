@@ -50,7 +50,12 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bhumikatewary?cardType=github&theme=radical&Border=D347DD)](https://git.io/awesome-stats-card)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhumikatewary&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kattni&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5) -->
+
+![trophy](https://github-profile-trophy.vercel.app/?username=kattni&theme=onedark)
 <br>
+
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhumikatewary&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"> -->
 <img alt="Bhumika Tewary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikatewary&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
