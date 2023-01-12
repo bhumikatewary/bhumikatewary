@@ -8,7 +8,7 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/photo.jpg" width="400" height="420" />
+<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="400" height="420" />
 
 <!-- - ✍ You can find my resume here [Resume] -->
 - 🌱 I’m currently learning Data Structures and Algorithms
@@ -21,7 +21,7 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 
 ### 🚀 My Tech Stack:
 
-<p align="left">
+<!-- <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
@@ -32,6 +32,20 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
     <a href="https://wordpress.com/"><img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/></a>
+</p> -->
+
+<!--badges link : https://github.com/alexandresanlim/Badges4-README.md-Profile#-office- -->
+
+<p align="left">
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Sql" src="https://img.shields.io/badge/-SQL-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="vscode" src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white"/>
 </p>
 
 <br>
@@ -40,20 +54,18 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/bhumikatewary)
 
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)-->
-
 <br>
 
 ### 📊 My Github Stats:
 <br/>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bhumikatewary?cardType=github&theme=radical&Border=D347DD)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bhumikatewary?cardType=github&theme=dark&Border=D347DD)](https://git.io/awesome-stats-card)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhumikatewary&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhumikatewary&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kattni&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5) -->
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhumikatewary&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5) -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kattni&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=bhumikatewary&theme=onedark)
 <br>
 
 
@@ -71,7 +83,7 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 <a href="https://in.pinterest.com/"><img src="https://img.icons8.com/color/48/000000/pinterest--v1.png"/></a>
 
 <!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%"> -->
 <p align="right">
 
 
