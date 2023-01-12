@@ -8,7 +8,7 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="400" height="420" />
+<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="400" height="400" />
 
 <!-- - ✍ You can find my resume here [Resume] -->
 - 🌱 I’m currently learning Data Structures and Algorithms
