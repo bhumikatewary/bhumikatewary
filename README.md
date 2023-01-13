@@ -45,16 +45,21 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white"/>
-   <img alt="sql" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white"/>
+   <img alt="sql" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
     
 </p>
 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 ##### I am currently listening to:
- [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&width=3px&height=3px&border_color=ffffff)](https://open.spotify.com/user/bhumikatewary)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&width=3px&height=3px&border_color=ffffff)](https://open.spotify.com/user/bhumikatewary)
 
 
 <br>
