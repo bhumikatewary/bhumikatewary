@@ -47,7 +47,14 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
   <img alt="vscode" src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white"/>
   <img alt="sql" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
   <img alt="sql" src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white"/>
-   <img alt="sql" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green"/>
+  <img alt="sql" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"/>
+   <img alt="sql" src="https://img.shields.io/badge/Xampp-F37623?style=flat-square&logo=xampp&logoColor=white"/>
     
 </p>
 
