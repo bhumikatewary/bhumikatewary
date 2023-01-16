@@ -19,7 +19,7 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 <br>
 
 
-### 🚀 My Tech Stack:
+### 🚀 My Work Stack:
 
 <!-- <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
@@ -54,7 +54,16 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
   <img alt="sql" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green"/>
   <img alt="sql" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
   <img alt="sql" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"/>
-   <img alt="sql" src="https://img.shields.io/badge/Xampp-F37623?style=flat-square&logo=xampp&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/Xampp-F37623?style=flat-square&logo=xampp&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img alt="sql" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
+  <img alt="sql" src="https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white"/>
+  <img alt="sql" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img alt="sql" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
     
 </p>
 
