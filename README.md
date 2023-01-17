@@ -68,8 +68,6 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 </p>
 <br>
 <br>
-<br>
-<br>
 
 ##### I am currently listening to:
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&width=3px&height=3px&border_color=ffffff)](https://open.spotify.com/user/bhumikatewary)
