@@ -3,9 +3,7 @@
 
 <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">-->
 
-I am an Undergraduate Student
-pursuing my B.Tech from Heritage Institute of Technology, Kolkata
-
+I am an Electronics Engineer by education and a Product Manager by profession
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="400" height="400" />
@@ -96,7 +94,6 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 </div> -->
 
 ### Connect with me through
-<a href="https://www.facebook.com/tewaryb/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
 <a href="https://twitter.com/bhumika_tewary"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/bhumika-tewary-6673681a4/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://in.pinterest.com/"><img src="https://img.icons8.com/color/48/000000/pinterest--v1.png"/></a>
