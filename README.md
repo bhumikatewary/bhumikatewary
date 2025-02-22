@@ -3,7 +3,6 @@
 
 <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">-->
 
-I am an Electronics Engineer by education and a Product Manager by profession
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="400" height="400" />
