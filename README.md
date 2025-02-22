@@ -1,5 +1,4 @@
 <h1 align="center">Hello World!  I'm Bhumika 👩‍💻</h1>
-<br>
 
 <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">-->
 
