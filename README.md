@@ -65,8 +65,8 @@
 <br>
 <br>
 
-##### I am currently listening to:
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&width=3px&height=3px&border_color=ffffff)](https://open.spotify.com/user/bhumikatewary)
+<!-- ##### I am currently listening to:
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&width=3px&height=3px&border_color=ffffff)](https://open.spotify.com/user/bhumikatewary) -->
 
 
 <br>
@@ -80,8 +80,8 @@
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhumikatewary&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5) -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=bhumikatewary&theme=onedark)
-<br>
+<!--![trophy](https://github-profile-trophy.vercel.app/?username=bhumikatewary&theme=onedark)
+<br> -->
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhumikatewary&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"> -->
