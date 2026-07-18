@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="400" height="400" />
 
 <!-- - ✍ You can find my resume here [Resume] -->
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Business Analytics
 - 👯 I’m looking to collaborate on open source
 - 📫 Reach out to me: bhumikatewary20@gmail.com
 - ⚡ Fun fact: I know how to play a piano
